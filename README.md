@@ -7,6 +7,7 @@ It demonstrates a difference in performance between Enumerator and the Visitor m
 Example run
 ===========
 
+```
 t0 Node Count 5420
 t0 largest child count 61
  DoTraverseListTest totalTime 1
@@ -46,4 +47,4 @@ t3 largest child count 317
  DoEnumeratorListTest perRun 1926.7
  DoTraverseListTest perNode 0.000273810904344821
  Enumerator / Traverse 59.010719754977
-
+```
